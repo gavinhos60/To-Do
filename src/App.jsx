@@ -1,7 +1,7 @@
 import { useState } from "react";
 import "./App.css";
 import Todo from "./components/todo";
-import TodoForm from "./components/todoForm";
+import TodoForm from "./components/todoform";
 import Filter from "./components/filter";
 import Search from "./components/search";
 
